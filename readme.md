@@ -1,0 +1,1 @@
+se  creo  la clase  ProductManager con los 3 metodos 
